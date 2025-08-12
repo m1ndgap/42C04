@@ -6,7 +6,7 @@
 /*   By: tchumbas <tchumbas@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/11 17:52:29 by tchumbas          #+#    #+#             */
-/*   Updated: 2025/08/11 18:00:16 by tchumbas         ###   ########.fr       */
+/*   Updated: 2025/08/11 20:09:02 by tchumbas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,7 +32,7 @@ void	ft_putnbr(int n)
 	write(1, &c, 1);
 }
 
-int	main(void)
+/* int	main(void)
 {
 	ft_putnbr(420);
-}
+} */
